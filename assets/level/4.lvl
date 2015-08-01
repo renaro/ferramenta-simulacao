@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="780" initial-x="5" initial-y="40" >   
+  	<entity x="4" y="35" width="5" height="1" type="rectangle" />  
+  	<entity x="10" y="28" width="30" height="1" type="rectangle" angle="5"/>  
+    <entity x="20" y="30" type="coin"/>
+    <entity x="40" y="28" type="coin"/>
+    <entity x="45" y="25" type="final-coin"/>
+</level>

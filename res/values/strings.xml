@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simulando</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="angulo_vetor">Angulo do vetor(Graus)!</string>
+    <string name="velocidade_vetor">Velocidade inicial(M/s)!</string>
+    <string name="escolha_outra_velocidade">Escolha outra velocidade!</string>
+    <string name="nao_toque_este_objeto">Não toque neste objeto!</string>
+    
+    
+    
+
+</resources>

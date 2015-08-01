@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/git/AndEngine-GLES2-AnchorCenter/AndEngine-GLES2-AnchorCenter.iml" filepath="$USER_HOME$/git/AndEngine-GLES2-AnchorCenter/AndEngine-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$USER_HOME$/git/AndEngineDebugDrawExtension-GLES2-AnchorCenter/AndEngineDebugDrawExtension-GLES2-AnchorCenter.iml" filepath="$USER_HOME$/git/AndEngineDebugDrawExtension-GLES2-AnchorCenter/AndEngineDebugDrawExtension-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$USER_HOME$/git/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter.iml" filepath="$USER_HOME$/git/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simulando.iml" filepath="$PROJECT_DIR$/.idea/Simulando.iml" />
+    </modules>
+  </component>
+</project>

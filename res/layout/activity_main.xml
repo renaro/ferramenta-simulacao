@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    
+    
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    tools:context=".MainActivity" >
+<LinearLayout
+     android:layout_width="0dip"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_weight="0.15"
+    android:gravity="left|center_vertical">
+    
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Iniciar"
+         />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:text="dksdsa"
+       android:singleLine="true"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </LinearLayout>
+
+    <com.example.simulando.Desenho
+        android:id="@+id/areaDesenho"
+        android:layout_width="0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.85" />
+
+</LinearLayout>

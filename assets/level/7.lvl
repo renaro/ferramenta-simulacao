@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="780" initial-x="20" initial-y="27" >   
+  	<entity x="19" y="25" width="1" height="1" type="rectangle" />  
+  	<entity x="17" y="16" width="30" height="1" type="rectangle" angle="30"/>
+  	<entity x="32" y="27" width="20" height="20" type="rotating-body2" />   
+    <entity x="42" y="12" type="final-coin"/>
+</level>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:gravity="right"
+    android:padding="20dip"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_entrada_parametros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/angulo_vetor"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText        
+        android:id="@+id/valor_parametro"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"
+        android:inputType="number"
+        />
+
+    <Button
+        android:id="@+id/b_addparam"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@android:string/ok" >
+</Button>
+</LinearLayout>
+
+    

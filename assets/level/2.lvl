@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="780" initial-x="0" initial-y="40">    
+
+    <entity x="30" y="0" type="final-coin"/>
+    
+</level>
